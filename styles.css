@@ -112,3 +112,6 @@ p{
 .post-container:nth-child(even){
     background-color: lightgray;
 }
+.post-text{
+    text-align: justify;
+}
